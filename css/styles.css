@@ -3,3 +3,8 @@ div.container {
     margin-left: 0px;
     margin-right: 0px;
 }
+
+#nav-list {
+    background-color: beige;
+    text-align: center;
+}
