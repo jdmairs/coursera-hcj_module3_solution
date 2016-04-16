@@ -1,4 +1,7 @@
 
+nav#header-nav {
+    max-height: 50px;
+}
 
 div.container {
     padding: 0px;
