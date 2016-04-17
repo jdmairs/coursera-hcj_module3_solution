@@ -15,6 +15,11 @@ div.container {
     text-align: center;
 }
 
+#nav-list li a:hover {
+    background-color: #555;
+    color: white;
+}
+
 #our-menu {
     font-size: 2em;
     margin-bottom: 4%;
