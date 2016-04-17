@@ -1,3 +1,8 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
 div.container {
     padding: 0px;
     margin-left: 0px;
@@ -8,4 +13,23 @@ div.container {
 #nav-list {
     background-color: beige;
     text-align: center;
+}
+
+#our-menu {
+    font-size: 2em;
+}
+
+section p {
+    margin-left: 5%;
+    margin-right:5%;
+    height: 1000px;
+}
+
+div#chicken {
+    background-color: palevioletred;
+    padding: 15px;
+}
+
+#menu {
+    margin: 5%;
 }
